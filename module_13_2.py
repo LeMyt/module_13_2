@@ -1,4 +1,4 @@
-from aiogram import Bot, Dispatcher, exceptions, types
+from aiogram import Bot, Dispatcher, execeptions, types
 from aiogram.contrib.fsm_storage.memory import MemoryStorage
 import asyncio
 
